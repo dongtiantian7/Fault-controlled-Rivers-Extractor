@@ -1,2 +1,2 @@
 # Fault-controlled-Rivers-Extractor
-1.1 Introduction
+An automatic detection method for fault-controlled rivers
