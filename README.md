@@ -2,7 +2,7 @@
 A  method for the automatic detection of fault-controlled rivers (FCRs) from drainage maps using spatial pattern matching.It mainly includes three functions:<br>  
 
 1 Scene modeling with ARG<br>  
-Click 【Scene modeling】 to set parameters in the triggered dialog.<br>  
+Click 【Scene modeling】 to set parameters in the triggered dialog.
 [Input River]：the vector river system in ESRI Shapefile format<br>  
 [From Field] and [To Field]: select the fields indicating the flow direction in the river data.<br>  
 Both [CT] and [LT] are parameters used to construct the scene model.<br>  
